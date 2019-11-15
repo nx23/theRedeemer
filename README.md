@@ -1,4 +1,4 @@
-# THE REDEEMER
+# THE REDEEMER - Linux version Only
 Collection of penetration tools to invade and sniffing wifi networks.<br>
 <h1>Modulues Avaliable</h1>
 <ul>
